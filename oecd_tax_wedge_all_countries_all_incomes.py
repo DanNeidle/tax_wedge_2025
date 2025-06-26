@@ -73,7 +73,7 @@ logo_layout = [dict(
 
 fig = go.Figure()
 # Countries to highlight when the chart first loads
-highlight = ['United Kingdom', 'United States', 'France', 'Germany', 'Italy', 'Spain', 'Canada', 'Sweden']
+highlight = ['United Kingdom', 'United States', 'France', 'Germany', 'Italy', 'Spain', 'Canada', 'Sweden', 'Belgium', 'Netherlands', 'Poland', 'Türkiye']
 
 default_sheet = sheet_names[0]   # "single_no_children"
 # Create one trace per country for each scenario
